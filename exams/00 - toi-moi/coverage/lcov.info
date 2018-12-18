@@ -1,0 +1,23 @@
+TN:
+SF:/Users/test/Documents/TDD/exams/00 - toi-moi/toi-moi.js
+FN:1,toiMoi
+FNF:1
+FNH:1
+FNDA:10,toiMoi
+DA:3,10
+DA:5,4
+DA:7,6
+DA:8,1
+DA:10,5
+LF:5
+LH:5
+BRDA:1,0,0,1
+BRDA:3,1,0,4
+BRDA:3,1,1,6
+BRDA:3,2,0,10
+BRDA:3,2,1,6
+BRDA:7,3,0,1
+BRDA:7,3,1,5
+BRF:7
+BRH:7
+end_of_record

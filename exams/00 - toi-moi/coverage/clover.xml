@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1545135987366" clover="3.2.0">
+  <project timestamp="1545135987366" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1" elements="13" coveredelements="13" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1">
+      <file name="toi-moi.js" path="/Users/test/Documents/TDD/exams/00 - toi-moi/toi-moi.js">
+        <metrics statements="5" coveredstatements="5" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="3" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
