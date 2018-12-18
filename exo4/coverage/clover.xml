@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1545058067953" clover="3.2.0">
+  <project timestamp="1545058067954" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2" elements="25" coveredelements="25" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1">
+      <file name="Hamming.js" path="/Users/test/Documents/TDD/exo4/Hamming.js">
+        <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="2" count="18" type="stmt"/>
+        <line num="3" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+        <line num="7" count="16" type="stmt"/>
+        <line num="8" count="61" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="58" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="13" type="stmt"/>
+        <line num="19" count="119" type="cond" truecount="4" falsecount="0"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
