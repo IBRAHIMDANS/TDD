@@ -38,4 +38,4 @@ describe('Tenis Game', () => {
         expect(game.displayScore()).toBe('deuce')
     });
 
-})
+});
