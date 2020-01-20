@@ -1,4 +1,4 @@
-import {isogram} from '../index';
+import {isogram} from '../src/index';
 
 describe('isogram', () => {
     test('it returns false for "isograms"', () => {
