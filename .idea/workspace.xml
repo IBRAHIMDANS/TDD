@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b633a90-aa30-4f8d-8e2e-33cebea2688f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/index.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/index.spec.js" afterDir="false" />
-    </list>
+    <list default="true" id="0b633a90-aa30-4f8d-8e2e-33cebea2688f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +48,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="npm.test">
+    <configuration name=" All test for pikachu" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/pikachu.spec.js" />
+      <test-names>
+        <test-name value=" All test for pikachu" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="isogram" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -65,20 +71,6 @@
       <test-file value="$PROJECT_DIR$/tests/index.spec.js" />
       <test-names>
         <test-name value="isogram" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="isogram.it returns true for &quot;downstream&quot;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/tests/index.spec.js" />
-      <test-names>
-        <test-name value="isogram" />
-        <test-name value="it returns true for &quot;downstream&quot;" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -123,10 +115,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.test" />
+        <item itemvalue="Jest. All test for pikachu" />
         <item itemvalue="Jest.isogram.it should return false for &quot;22&quot;" />
         <item itemvalue="Jest.isogram" />
         <item itemvalue="Jest.isogram.it returns true for &quot;six-year-old&quot;" />
-        <item itemvalue="Jest.isogram.it returns true for &quot;downstream&quot;" />
       </list>
     </recent_temporary>
   </component>
@@ -182,26 +174,26 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="712" y="-697" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579505054503" />
-    <state width="1878" height="294" key="GridCell.Tab.0.bottom" timestamp="1579512746721">
+    <state width="1878" height="294" key="GridCell.Tab.0.bottom" timestamp="1579513191298">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="294" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512746721" />
-    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579508539710" />
-    <state width="1878" height="294" key="GridCell.Tab.0.center" timestamp="1579512746714">
+    <state width="1878" height="294" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512906620" />
+    <state width="1878" height="294" key="GridCell.Tab.0.bottom/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579513191298" />
+    <state width="1878" height="294" key="GridCell.Tab.0.center" timestamp="1579513191293">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="294" key="GridCell.Tab.0.center/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512746714" />
-    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579508539704" />
-    <state width="1878" height="294" key="GridCell.Tab.0.left" timestamp="1579512746709">
+    <state width="1878" height="294" key="GridCell.Tab.0.center/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512906607" />
+    <state width="1878" height="294" key="GridCell.Tab.0.center/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579513191293" />
+    <state width="1878" height="294" key="GridCell.Tab.0.left" timestamp="1579513191291">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="294" key="GridCell.Tab.0.left/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512746709" />
-    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579508539702" />
-    <state width="1878" height="294" key="GridCell.Tab.0.right" timestamp="1579512746717">
+    <state width="1878" height="294" key="GridCell.Tab.0.left/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512906604" />
+    <state width="1878" height="294" key="GridCell.Tab.0.left/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579513191291" />
+    <state width="1878" height="294" key="GridCell.Tab.0.right" timestamp="1579513191295">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state width="1878" height="294" key="GridCell.Tab.0.right/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512746717" />
-    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579508539706" />
+    <state width="1878" height="294" key="GridCell.Tab.0.right/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579512906612" />
+    <state width="1878" height="294" key="GridCell.Tab.0.right/0.23.1280.777/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1579513191295" />
     <state width="1878" height="356" key="GridCell.Tab.1.bottom" timestamp="1579509689181">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
